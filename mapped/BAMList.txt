@@ -1,0 +1,2 @@
+/Users/yanjunzan/Documents/tobacco/bin/DNA_seq/mapped/4_FDSW190451996-1r_sort_index_rg_nodup.bam
+/Users/yanjunzan/Documents/tobacco/bin/DNA_seq/mapped/83_FDSW190451996-1r_sort_index_rg_nodup.bam

@@ -1,0 +1,13 @@
+working_dir:
+    /Users/yanjunzan/Documents/tobacco/bin/DNA_seq/
+result_dir:
+    /Users/yanjunzan/Documents/tobacco/results/
+ref:
+    yancao_HIC_2021119
+refdir:
+    /Users/yanjunzan/Documents/tobacco/data/genome/
+fastp:
+    qualified_quality_phred: "15"
+picard:
+    /Users/yanjunzan/Documents/soft/picard.jar
+    
